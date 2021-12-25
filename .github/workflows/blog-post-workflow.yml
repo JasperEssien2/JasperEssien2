@@ -6,18 +6,14 @@ on:
     - cron: '0 0 * * *' # Runs Every Day
 
 jobs:
-  update_blogs:
-    name: "Update Blogs"
+  update-readme-with-blog:
+    name: Update this repo's README with latest Hashnode blog posts
     runs-on: ubuntu-latest
     steps:
-      - name: "📥  Fetching Repository Contents"
-        uses: actions/checkout@main
-
-      - name: "📚  Hashnode Updater"
-        uses: "varunsridharan/action-hashnode-blog@main"
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          # USERNAME: "Jasper-dev" # Hashnode Username
-          COUNT: 10 # MAX Visisble
-          BLOG_URL: "https://hashnode.com/619a920a5bb9cc256fc6b150/dashboard/posts"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          comment_tag_name: "HASHNODE"
+          commit_message: "Updated readme with the latest Hashnode Blog data"
+          feed_list: "https://jasper-dev.hashnode.dev/rss.xml"
+          COUNT: 10
