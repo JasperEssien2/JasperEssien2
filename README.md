@@ -48,6 +48,8 @@
 
 ### 📕 Latest Blog Posts
 <!-- HASHNODE:START -->
+- [Build complex widgets with flutter](https://jasper-dev.hashnode.dev/build-complex-widgets-with-flutter)
+- [Getting started with RenderObjects in Flutter](https://jasper-dev.hashnode.dev/getting-started-with-renderobjects-in-flutter)
 <!-- HASHNODE:END -->
 
 ---
