@@ -22,7 +22,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
-[<img align="left" alt="Android Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android-studio/android-studio.png" />][website]
+[<img align="left" alt="Android Studio" width="26px" src="https://e7.pngegg.com/pngimages/466/228/png-clipart-android-studio-integrated-development-environment-logo-android-studio-logo.png" />][website]
 [<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />][website]
 [<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />][website]
 [<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][website]
@@ -30,9 +30,15 @@
 [<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />][website]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][website]
 [<img align="left" alt="Pytorch" width="26px" src="https://s3.us-east-2.amazonaws.com/aiworkbox/technology-images/pytorch_logo_200x200.png" />][website]
+[<img align="left" alt="Github" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png" />][website]
+[<img align="left" alt="Github" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
 
 <br />
 <br />
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [website]: https://jahswill-dev.web.app/
 [article]: https://jasper-dev.hashnode.dev/build-complex-widgets-with-flutter
