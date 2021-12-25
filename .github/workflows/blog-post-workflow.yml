@@ -18,6 +18,6 @@ jobs:
         with:
           # USERNAME: "Jasper-dev" # Hashnode Username
           COUNT: 10 # MAX Visisble
-          BLOG_URL: "https://jasper-dev.hashnode.dev"
+          BLOG_URL: "https://hashnode.com/619a920a5bb9cc256fc6b150/dashboard/posts"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
