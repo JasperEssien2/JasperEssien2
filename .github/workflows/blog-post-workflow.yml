@@ -16,4 +16,4 @@ jobs:
           comment_tag_name: "HASHNODE"
           commit_message: "Updated readme with the latest Hashnode Blog data"
           feed_list: "https://jasper-dev.hashnode.dev/rss.xml"
-          COUNT: 10
+          max_post_count: 10
