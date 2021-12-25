@@ -56,8 +56,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="JasperEssien GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JasperEssien2&show_icons=true&hide_border=true" />
-
+    ![Jahswill's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasperessien2&show_icons=true&theme=radical)
 </details>
 
 [website]: https://jahswill-dev.web.app/
