@@ -16,8 +16,8 @@ jobs:
       - name: "📚  Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
-          USERNAME: "Jasper-dev" # Hashnode Username
+          # USERNAME: "Jasper-dev" # Hashnode Username
           COUNT: 10 # MAX Visisble
-          BLOG_URL: "https://hashnode.com/619a920a5bb9cc256fc6b150/dashboard/posts"
+          BLOG_URL: "https://jasper-dev.hashnode.dev"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
