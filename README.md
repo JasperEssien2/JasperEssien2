@@ -39,8 +39,8 @@
 ---
 
 ### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
 
 [website]: https://jahswill-dev.web.app/
 [article]: https://jasper-dev.hashnode.dev/build-complex-widgets-with-flutter
