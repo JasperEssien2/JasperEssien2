@@ -1,4 +1,4 @@
-name: "📚 Blog Updater "
+name: "📚 Blog Updater"
 
 on:
   workflow_dispatch:
@@ -16,7 +16,7 @@ jobs:
       - name: "📚  Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
-          USERNAME: "Jasper-dev"" # Hashnode Username
+          USERNAME: "Jasper-dev" # Hashnode Username
           COUNT: 10 # MAX Visisble
           BLOG_URL: "https://jasper-dev.hashnode.dev"
         env:
