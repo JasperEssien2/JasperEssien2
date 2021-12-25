@@ -38,9 +38,26 @@
 
 ---
 
+### Flutter paint challenges
+| <img align="left" alt="Fanciful color wheel" width="75px" height="75px" src="https://github.com/JasperEssien2/paint_challenge/blob/master/Screen%20Recording%202021-11-15%20at%2011.43.15.gif" />        | <img align="center" alt="Speedometer Slider" width="75px" height="75px" src="https://github.com/JasperEssien2/speedometer_slider/blob/master/display/speedometer_slider_display.gif" />           | <img align="right" alt="Wave Spinner Widget" width="75px" height="75px" src="https://github.com/JasperEssien2/custom_spinner/blob/master/screenshots/wave_spinner.gif" />   |
+| ------------- |:-------------:| -----:|
+| <img align="left" alt="Graph Widget" width="75px" height="75px" src="https://github.com/JasperEssien2/wave_widget/blob/master/waves_gif.gif" />        | <img align="center" alt="Water Waves" width="75px" height="75px" src="https://github.com/JasperEssien2/speedometer_slider/blob/master/display/speedometer_slider_display.gif" />           |    |
+| ------------- |:-------------:| -----:|
+
+---
+
 ### 📕 Latest Blog Posts
 <!-- HASHNODE:START -->
 <!-- HASHNODE:END -->
+
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="JasperEssien GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JasperEssien&show_icons=true&hide_border=true" />
+
+</details>
 
 [website]: https://jahswill-dev.web.app/
 [article]: https://jasper-dev.hashnode.dev/build-complex-widgets-with-flutter
