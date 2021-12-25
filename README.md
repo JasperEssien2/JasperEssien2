@@ -53,11 +53,9 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
+```md
     ![Jahswill's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasperessien2&show_icons=true&theme=radical)
-</details>
+```
 
 [website]: https://jahswill-dev.web.app/
 [article]: https://jasper-dev.hashnode.dev/build-complex-widgets-with-flutter
