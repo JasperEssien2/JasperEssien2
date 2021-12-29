@@ -6,7 +6,7 @@
 ## I'm a Mobile Developer!!
 
 - 🔭 I just launched my second article: [Build complex widget with flutter][article]!
-- 🌱 I’m currently learning solidity, while improving my skills in flutter 
+- 🌱 I’m currently learning solidity, while becoming more badass in flutter 
 - 👯 I’m looking to collaborate with other flutter developers
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read
@@ -53,12 +53,13 @@
 
 ---
 
-```md
-    ![Jahswill's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasperessien2&show_icons=true&theme=radical)
-```
+## Stats
+
+![nightowl][nightowl]
 
 [website]: https://jahswill-dev.web.app/
 [article]: https://jasper-dev.hashnode.dev/build-complex-widgets-with-flutter
 [blog]: http://vsCodeHero.com
 [twitter]: https://twitter.com/EssienJasper
 [linkedin]: https://www.linkedin.com/in/jahswill-essien-9b0221168/
+[nightowl]: https://github-readme-stats.vercel.app/api?username=jasperessien2&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nightowl
