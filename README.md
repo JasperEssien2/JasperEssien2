@@ -43,7 +43,7 @@
 | ------------- |:-------------:| -----:|
 | <img align="left" alt="Speedometer Slider" width="220px" height="220px" src="https://github.com/JasperEssien2/speedometer_slider/blob/master/display/speedometer_slider_display.gif" />  | <img align="center" alt="Graph Widget" width="220px" height="220px" src="https://github.com/JasperEssien2/graph_widget/blob/master/display/graph_widget_display_.gif" />        |   <img align="right" alt="Wave Spinner Widget" width="220px" height="220px" src="https://github.com/JasperEssien2/custom_spinner/blob/master/screenshots/wave_spinner.gif" />   |
 | ------------- |:-------------:| -----:|
-| <img align="left" alt="Water Waves" width="220px" height="220px" src="https://github.com/JasperEssien2/wave_widget/blob/master/waves_gif.gif" />  |
+| <img align="left" alt="Water Waves" width="220px" height="220px" src="https://github.com/JasperEssien2/wave_widget/blob/master/waves_gif.gif" />  | | |
 ---
 
 ### 📕 Latest Blog Posts
