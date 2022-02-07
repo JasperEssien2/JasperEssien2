@@ -5,7 +5,7 @@
 
 ## I'm a Mobile Developer!!
 
-- 🔭 I just launched my second article: [Build complex widget with flutter][article]!
+- 🔭 I just launched my third article: [Drawing Bezier curves and Splines with CustomPaint flutter][article]!
 - 🌱 I’m currently learning solidity, while becoming more badass in flutter 
 - 👯 I’m looking to collaborate with other flutter developers
 - 🥅 2022 Goals: Contribute more to Open Source projects
@@ -63,7 +63,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasperessien2&layout=compact)](https://github.com/jasperessien2/github-readme-stats)
 
 [website]: https://jahswill-dev.web.app/
-[article]: https://jasper-dev.hashnode.dev/build-complex-widgets-with-flutter
+[article]: https://jasper-dev.hashnode.dev/drawing-bezier-curves-and-splines-with-custompaint-flutter
 [blog]: http://vsCodeHero.com
 [twitter]: https://twitter.com/EssienJasper
 [linkedin]: https://www.linkedin.com/in/jahswill-essien-9b0221168/
