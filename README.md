@@ -39,6 +39,7 @@
 ---
 
 ### Flutter paint challenges
+|<img align="left" alt="Flutter Dash Animation" width="660px" height="220px" src="https://github.com/JasperEssien2/dash/blob/master/display/flutter_dash.gif" /> |
 | <img align="left" alt="Sponge bob Animation" width="220px" height="220px" src="https://github.com/JasperEssien2/sponge_bob/blob/master/display/ezgif.com-gif-maker.gif" /> | <img align="center" alt="Face Animation" width="220px" height="220px" src="https://github.com/JasperEssien2/face_animation_widget/blob/master/display/face_animation.gif" />  | <img align="right" alt="Fanciful color wheel" width="220px" height="220px" src="https://github.com/JasperEssien2/paint_challenge/blob/master/Screen%20Recording%202021-11-15%20at%2011.43.15.gif" /> |
 | ------------- |:-------------:| -----:|
 | <img align="left" alt="Speedometer Slider" width="220px" height="220px" src="https://github.com/JasperEssien2/speedometer_slider/blob/master/display/speedometer_slider_display.gif" />  | <img align="center" alt="Graph Widget" width="220px" height="220px" src="https://github.com/JasperEssien2/graph_widget/blob/master/display/graph_widget_display_.gif" /> | <img align="right" alt="Wave Spinner Widget" width="220px" height="220px" src="https://github.com/JasperEssien2/custom_spinner/blob/master/screenshots/wave_spinner.gif" /> |
@@ -58,6 +59,8 @@
 ## Stats
 
 ![nightowl][nightowl]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasperessien2&layout=compact)](https://github.com/jasperessien2/github-readme-stats)
 
 [website]: https://jahswill-dev.web.app/
 [article]: https://jasper-dev.hashnode.dev/build-complex-widgets-with-flutter
