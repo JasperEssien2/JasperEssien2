@@ -48,6 +48,8 @@
 ---
 
 ### 📕 Latest Blog Posts
+- [Flutter isolates – everything you need to know](https://blog.codemagic.io/understanding-flutter-isolates/)
+- [Understanding Offsets in Flutter](https://blog.logrocket.com/understanding-offsets-flutter/)
 <!-- HASHNODE:START -->
 - [Drawing Bezier curves and Splines with CustomPaint flutter](https://jasper-dev.hashnode.dev/drawing-bezier-curves-and-splines-with-custompaint-flutter)
 - [Build complex widgets with flutter](https://jasper-dev.hashnode.dev/build-complex-widgets-with-flutter)
