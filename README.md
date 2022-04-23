@@ -51,6 +51,7 @@
 - [Flutter isolates – everything you need to know](https://blog.codemagic.io/understanding-flutter-isolates/)
 - [Understanding Offsets in Flutter](https://blog.logrocket.com/understanding-offsets-flutter/)
 <!-- HASHNODE:START -->
+- [How to implement GraphQL with Flutter + GraphQL example + CI/CD &lpar;Codemagic&rpar;](https://jasper-dev.hashnode.dev/how-to-implement-graphql-with-flutter-graphql-example-cicd-codemagic)
 - [Drawing Bezier curves and Splines with CustomPaint flutter](https://jasper-dev.hashnode.dev/drawing-bezier-curves-and-splines-with-custompaint-flutter)
 - [Build complex widgets with flutter](https://jasper-dev.hashnode.dev/build-complex-widgets-with-flutter)
 - [Getting started with RenderObjects in Flutter](https://jasper-dev.hashnode.dev/getting-started-with-renderobjects-in-flutter)
