@@ -1,7 +1,7 @@
 ### Hi there, I'm Jahswill Essien 👋 
 
 
-[![Website](https://img.shields.io/website?label=LinkedIn&style=for-the-badge&url=https%3A%2F%2Fjahswill-dev.web.app)]([https://jahswill-dev.web.app/](https://www.linkedin.com/in/jahswill-essien-9b0221168/))
+[![Website](https://img.shields.io/website?label=LinkedIn&style=for-the-badge&url=https%3A%2F%2Fjahswill-dev.web.app)](https://www.linkedin.com/in/jahswill-essien-9b0221168/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/EssienJasper?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJasperEssien2&screen_name=EssienJasper)
 
 ## I'm a Mobile Developer!!
