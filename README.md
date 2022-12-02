@@ -65,7 +65,7 @@
 
 
 |![nightowl][nightowl]
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasperessien2&layout=compact&theme=nightowl)](https://github.com/jasperessien2/github-readme-stats)
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasperessien2&layout=compact&theme=nightowl&hide=html,jupyter%20notebook&langs_count=7)](https://github.com/jasperessien2/github-readme-stats)
 |
 
 
